@@ -1,0 +1,123 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Budapest - City Tour App</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_sightseeing">Sightseeing</string>
+
+    <!-- Category name for the vocabulary locations for colors [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for the vocabulary locations for numbers [CHAR LIMIT=20] -->
+    <string name="category_thermalbaths">Thermal Baths</string>
+
+    <!-- Category name for the vocabulary locations for family members [CHAR LIMIT=20] -->
+    <string name="category_cakeshops">Cake Shops</string>
+
+    <string name="textview_name">Danube Bend Day Trip</string>
+
+    <string name="textview_description">from Thursday to Sunday</string>
+
+    <string name="open_time_szecsenyi">open every day from 6.00-22.00</string>
+
+    <string name="szecsenyi_name">Szechenyi Baths</string>
+
+    <string name="open_time_gellert">open every day from 6.00-20.00</string>
+
+    <string name="gellert_name">Gellert Baths</string>
+
+    <string name="open_time_lukacs">open every day from 8.00-20.00</string>
+
+    <string name="lukacs_name">Lukacs Baths</string>
+
+    <string name="open_time_rudas">open every day from 6.00-18.00</string>
+
+    <string name="rudas_name">Rudas Baths</string>
+
+    <string name="open_time_kiralyi">open every 8.00-23.00</string>
+
+    <string name="kiralyi_name">Kiralyi Baths</string>
+
+    <string name="auguszt">August</string>
+
+    <string name="auguszt_phone">+36 1 337 6379</string>
+
+    <string name="szamos">Szamos</string>
+
+    <string name="szamos_phone">+36 1 317 3643</string>
+
+    <string name="nandori">Nandori</string>
+
+    <string name="nandori_phone">+36 1 215 8776</string>
+
+    <string name="daubner">Daubner</string>
+
+    <string name="daubner_phone">+36 1 335 2253</string>
+
+    <string name="budapest">Budapest</string>
+
+    <string name="budapest_phone">+36 1 338 1398</string>
+
+    <string name="damniczki">Damniczki</string>
+
+    <string name="damniczki_phone">+36 20 382 5452</string>
+
+    <string name="baraka_phone">+36 1 200 0817</string>
+
+    <string name="baraka">Baraka</string>
+
+    <string name="costes_phone">+36 1 219 0696</string>
+
+    <string name="costes">Costes</string>
+
+    <string name="burgers_phone">+36 70 416 9377</string>
+
+    <string name="burgers">Lucky 7 Burgers</string>
+
+    <string name="meatology_phone">+36 30 891 2250</string>
+
+    <string name="meatology">Meatology</string>
+
+    <string name="local_corner_phone">+36 1 708 4800</string>
+
+    <string name="local_corner">Local Corner</string>
+
+    <string name="bors_gastrobar_phone">+36 70 701 3656</string>
+
+    <string name="bors_gastrobar">Bors GastroBar</string>
+
+    <string name="open_time_danube">from Thursday to Sunday</string>
+
+    <string name="danube">Danube Bend Day Trip</string>
+
+    <string name="open_time_hoponoff">every day</string>
+
+    <string name="hoponoff">Hop-On Hop-Off Tour by Bus and Boat</string>
+
+    <string name="open_time_parliament">from Monday to Friday</string>
+
+    <string name="parliament">Parliament House Tour</string>
+
+    <string name="open_time_segway">every day</string>
+
+    <string name="segway">Segway Sightseeing Tour</string>
+
+    <string name="open_time_amphybius">every day</string>
+
+    <string name="amphybius">Amphybius Bus Tour by Land and Water</string>
+
+</resources>

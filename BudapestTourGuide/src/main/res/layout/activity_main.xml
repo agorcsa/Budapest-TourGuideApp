@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.android.BudapestTourGuide.MainActivity">
+
+    <!-- Sightseeing category -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_sightseeing">
+        <TextView
+            android:id="@+id/sightseeing"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/category_sightseeing" />
+    </FrameLayout>
+
+    <!-- Cake Shops category -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_cakeshop">
+        <TextView
+            android:id="@+id/cakeShops"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/category_cakeshops" />
+    </FrameLayout>
+
+    <!-- Restaurants category -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_restaurants">
+        <TextView
+            android:id="@+id/restaurants"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/category_restaurants" />
+    </FrameLayout>
+
+    <!-- ThermalBaths category -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_thermalbaths">
+        <TextView
+            android:id="@+id/thermalBaths"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/category_thermalbaths" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/stema"
+        android:layout_marginLeft="@dimen/margin"
+        android:layout_marginRight="@dimen/margin">
+    </FrameLayout>
+</LinearLayout>
